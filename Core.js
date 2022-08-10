@@ -4765,12 +4765,12 @@ bonk, cry, bully, cuddle, hug, kiss, lick, pat, smug, yeet, blush, smile, wave, 
 
  ⧼ 🌌  ~ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐑 ~  🌌  ⧽
 
-play, ytmp3, ytmp4, ytvideo, mediafire, instagram, igtv, facebook, fbmp3, twitter, twittermp3, tiktok, tiktokaudio, tiktoknowm, mediafire  
+play, ytmp3, ytmp4, ytvideo, mediafire, instagram, igtv, facebook, fbmp3, twitter, twittermp3, tiktok, tiktokaudio, tiktoknowm, mediafire, happymod 
 
 
  ⧼ 🈴 ~ 𝐖𝐄𝐄𝐁 𝐙𝐎𝐍𝐄 ~ 🈴 ⧽
 
-waifu, loli, neko, ppcouple, feed, foxgirl, feed, meow, tickle, wallpaper, coffee, animenom, waifu3, neko2, feed, meow, tickle, migumin, awoo, animewallpaper2, anime, manga
+waifu, loli, neko, ppcouple, feed, foxgirl, feed, meow, tickle, wallpaper, coffee, animenom, waifu3, neko2, feed, meow, tickle, migumin, awoo, animewallpaper2, anime, manga, couplepp
 
 
  ⧼ ♨️ ~ 𝐈𝐍𝐅𝐎𝐌𝐀𝐑𝐓𝐈𝐕𝐄 ~ ♨️ ⧽
@@ -4790,7 +4790,7 @@ reaction, truth, dare, couple, soulmate, handsomecheck, beautifulcheck, awesomec
 
  ⧼ 🪁 ~ 𝐄𝐒𝐒𝐄𝐍𝐓𝐈𝐀𝐋𝐒 ~ 🪁  ⧽
 
-translate, fliptext, toletter
+translate, fliptext, toletter, calculator
 
 
  ⧼ 💥 ~ 𝐍𝐒𝐅𝐖 ~ 💥  ⧽
