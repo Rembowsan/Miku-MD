@@ -367,91 +367,91 @@ const addCooldown = (userId) => {
 }
 
 var levelRole = getLevelingLevel(m.sender)
-        var role = 'Copper V'
+        var role = 'Iron III  '
         if (levelRole <= 5) {
-            role = 'Copper IV'
+            role = 'Iron II'
         } else if (levelRole <= 10) {
-            role = 'Copper III'
+            role = 'Iron I'
         } else if (levelRole <= 15) {
-            role = 'Copper II'
+            role = 'Bronze III 🥉'
         } else if (levelRole <= 20) {
-            role = 'Copper I'
+            role = 'Bronze II 🥉'
         } else if (levelRole <= 25) {
-            role = 'Silver V'
+            role = 'Bronze I 🥉'
         } else if (levelRole <= 30) {
-            role = 'Silver IV'
+            role = 'Silver III 🥈'
         } else if (levelRole <= 35) {
-            role = 'Silver III'
+            role = 'Silver II 🥈'
         } else if (levelRole <= 40) {
-            role = 'Silver II'
+            role = 'Silver I 🥈'
         } else if (levelRole <= 45) {
-            role = 'Silver I'
+            role = 'Gold III 🥇'
         } else if (levelRole <= 50) {
-            role = 'Gold V'
+            role = 'Gold II 🥇'
         } else if (levelRole <= 55) {
-            role = 'Gold IV'
+            role = 'Gold I 🥇'
         } else if (levelRole <= 60) {
-            role = 'Gold III'
+            role = 'Diamand III 💎'
         } else if (levelRole <= 65) {
-            role = 'Gold II'
+            role = 'Diamand II 💎'
         } else if (levelRole <= 70) {
-            role = 'Gold I'
+            role = 'Diamand I 💎'
         } else if (levelRole <= 75) {
-            role = 'Platinum V'
+            role = 'Elite III 💧'
         } else if (levelRole <= 80) {
-            role = 'Platinum IV'
+            role = 'Elite II 💧'
         } else if (levelRole <= 85) {
-            role = 'Platinum III'
+            role = 'Elite I 💧'
         } else if (levelRole <= 90) {
-            role = 'Platinum II'
+            role = 'Legend III 🔱'
         } else if (levelRole <= 95) {
-            role = 'Platinum I'
+            role = 'Legend II 🔱'
         } else if (levelRole < 100) {
-            role = 'Exterminator'
+            role = 'Tekun Bot Legend I 🔱'
         }
 
         var levelRoles = getLevelingLevel(m.sender)
-        var roles = 'Cop V'
+        var roles = 'Iron III'
         if (levelRoles <= 5) {
-            roles = 'Cop IV'
+            roles = 'Iron II'
         } else if (levelRoles <= 10) {
-            roles = 'Cop III'
+            roles = 'Iron I'
         } else if (levelRoles <= 15) {
-            roles = 'Cop II'
+            roles = 'Brnz III'
         } else if (levelRoles <= 20) {
-            roles = 'Cop I'
+            roles = 'Brnz II'
         } else if (levelRoles <= 25) {
-            roles = 'Sil V'
+            roles = 'Brnz I'
         } else if (levelRoles <= 30) {
-            roles = 'Sil IV'
-        } else if (levelRoles <= 35) {
             roles = 'Sil III'
-        } else if (levelRoles <= 40) {
+        } else if (levelRoles <= 35) {
             roles = 'Sil II'
-        } else if (levelRoles <= 45) {
+        } else if (levelRoles <= 40) {
             roles = 'Sil I'
-        } else if (levelRoles <= 50) {
-            roles = 'Gol V'
-        } else if (levelRoles <= 55) {
-            roles = 'Gol IV'
-        } else if (levelRoles <= 60) {
+        } else if (levelRoles <= 45) {
             roles = 'Gol III'
-        } else if (levelRoles <= 65) {
+        } else if (levelRoles <= 50) {
             roles = 'Gol II'
-        } else if (levelRoles <= 70) {
+        } else if (levelRoles <= 55) {
             roles = 'Gol I'
+        } else if (levelRoles <= 60) {
+            roles = 'Dia III'
+        } else if (levelRoles <= 65) {
+            roles = 'Dia II'
+        } else if (levelRoles <= 70) {
+            roles = 'Dia I'
         } else if (levelRoles <= 75) {
-            roles = 'Plat V'
+            roles = 'El III'
         } else if (levelRoles <= 80) {
-            roles = 'Plat IV'
+            roles = 'El II'
         } else if (levelRoles <= 85) {
-            roles = 'Plat III'
+            roles = 'El I'
         } else if (levelRoles <= 90) {
-            roles = 'Plat II'
+            roles = 'Leg III'
         } else if (levelRoles <= 95) {
-            roles = 'Plati I'
+            roles = 'Leg II'
         } else if (levelRoles < 100) {
-            roles = 'Exter'
+            roles = 'Leg I'
         }
    
                         if (m.isGroup && isLeveling && isUser && Miku.public) {
@@ -1388,10 +1388,10 @@ return list[Math.floor(list.length * Math.random())]
 
 switch(command) {
 	
-    case 'sc': case 'script': case 'sourcecode': {
+    case 'srbebnenennrnrndnc': case 'scrinfndnennrnnrnfnnrpt': case 'sourcbfndnenenenenndndnecode': {
         if (isBan) return reply(mess.banned)	 			
     if (isBanChat) return reply(mess.bangc)
-    teks = `*${global.BotName}'s Script*\n\n*GitHub*: ${global.BotSourceCode}\n\nDont forget to follow me on *GitHub* and give a ⭐️ to my projects. `
+    teks = ` `
     let buttons = [
     {buttonId: `-menu`, buttonText: {displayText: '✨Bot Menu✨'}, type: 1}
     ]
@@ -1499,13 +1499,10 @@ if (isBanChat) return reply(mess.banChat)
 reply(` Don't forget to join yeah!
 
 *GROUP 1*
-https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS
+https://chat.whatsapp.com/CqprBsiO52T6UruN38rUOP
 
 *GROUP 2*
-https://chat.whatsapp.com/LS1Xx3fSqg7FpSYSjKWhL5
-
-*GROUP 3*
-https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd`)
+https://chat.whatsapp.com/C9oG3ewYlaM7YzS3TcS8ra`)
 break
 case 'getsxvdxcmd': {
 if (isBan) return reply(mess.ban)	 			
@@ -1519,12 +1516,12 @@ break
 
 case 'support': case 'supportgc':
     
-    reply(`*My developer's group:* http://gg.gg/MikuSupport`)
+    reply(`*My developers group:* https://chat.whatsapp.com/KmnhSLOfX2HDqXcElzUAsA`)
     break
 
-case 'repo': case 'botrepo':
+case 'redbdbebenenpo': case 'botbfnrnrnrepo':
     
-    reply(`*My Source Code:* https://github.com/FantoX001/Miku-MD`)
+    reply(`*My Source Code:* https://github.com/FantbrbrbbrnnoX001/Mikbtbrbu-MD`)
     break
 
 case 'nsfwmenu':
@@ -1814,7 +1811,7 @@ case 'delete': case 'del': {
     if (isBan) return reply(mess.banned)	 			
  if (isBanChat) return reply(mess.bangc)
  let anu = await store.chats.all().filter(v => v.id.endsWith('.net')).map(v => v)
- let teks = ` 「  Miku's pm user list  」\n\nTotal ${anu.length} users are using Miku in personal chat.`
+ let teks = ` 「  Tekun pm user list  」\n\nTotal ${anu.length} users are using Miku in personal chat.`
  for (let i of anu) {
   teks += `\n\nProfile : @${i.id.split('@')[0]}\nChat : ${i.unreadCount}\nLastchat : ${moment(i.conversationTimestamp * 1000).tz("Asia/Kolkata").format("DD/MM/YYYY HH:mm:ss")}`
  }
@@ -1826,7 +1823,7 @@ case 'delete': case 'del': {
     if (isBan) return reply(mess.banned)	 			
  if (isBanChat) return reply(mess.bangc)
  let anu = await store.chats.all().filter(v => v.id.endsWith('@g.us')).map(v => v.id)
- let teks = ` 「  Miku's group user list  」\n\nTotal ${anu.length} users are using bot in Groups.`
+ let teks = ` 「  Tekuns group user list  」\n\nTotal ${anu.length} users are using bot in Groups.`
  for (let i of anu) {
   let metadata = await Miku.groupMetadata(i)
   if (metadata.owner === "undefined") {
@@ -4704,88 +4701,107 @@ replay('Broadcast Sent !')
 break    
 
 
-case 'help': case 'h': case 'menu': case 'allmenu': case 'listmenu':{
+case 'help': case 'list': case 'menu': case 'allmenu': case 'listmenu':{
     if (isBan) return reply(mess.banned)	 			
     if (isBanChat) return reply(mess.bangc)
       
- const helpmenu = `Konichiwa *${pushname}* Senpai,
+ const helpmenu = `Hello  *${pushname}*,
 
-I am *Miku Nakano*, a bot developed by *Fantox*.
 
-🔰 My prefix is:  ${prefix}
+⚜ | Hello, my Name is Tekun bot
+⚜ | Created by Zukato
+⚜ | My Prefix is ( ${prefix} )
 
-Here's the list of my Commands.
+
+ ⚜𝐘𝐎𝐔𝐑 𝐒𝐓𝐀𝐓𝐒⚜
+┌───────
+│ᏞᏙᏞ: ${levelMenu}
+│ᎡϴᏞᎬ: ${role}
+│ᎬХᏢ: ${xpMenu} / ${reqXp}
+└───────
+
+⚜ | Heres the list of my Commands. | ⚜
+
+
+ ⧼ 🌀 ~ 𝐌𝐀𝐈𝐍 ~ 🌀 ⧽
+
+profile, help, delete, listgc, listpc, welcome, support
+
  
+ ⧼ 🎀 ~ 𝐎𝐖𝐍𝐄𝐑 ~ 🎀  ⧽
+
+ban, bangroup, bye, join, bye, block, unblock, broadcast 
 
 
- *━━━━━━〈  🎆 Core 🎆  〉━━━━━━*
-
-profile, help, delete, listgc, listpc, welcome, support, repo, script 
- 
- *━━━━━━〈  🎀 Owner 🎀  〉━━━━━━*
-
-self, public, ban, bangroup, bye, join, bye, block, unblock, broadcast 
-
- *━━━━━━〈  ⭕ Group ⭕  〉━━━━━━*
+ ⧼ 👥 ~ 𝐆𝐑𝐎𝐔𝐏 ~ 👥  ⧽
 
 promote, demote, revoke, remove, tagall, hidetag, groupsetting, grouplink, setgcpp, setname, setdesc, group, nsfw 
 
- *━━━━━━〈  ➰ Anti Link ➰  〉━━━━━━*
+
+ ⧼ ➰ ~ 𝐀𝐍𝐓𝐈 𝐋𝐈𝐍𝐊 ~ ➰  ⧽
  
 antilinkgc, antilinktg, antilinktt, antilinkytch, antilinkytvid, antilinkig, antilinkfb, antilinktwit, antilinkall, antiwame
 
- *━━━━━━〈  🔍 Search 🔍  〉━━━━━━*
+
+ ⧼ 🔍 ~ 𝐒𝐄𝐀𝐑𝐂𝐇 ~ 🔍 ⧽
 
 play, song, yts, lyrics, google, playstore, gimage, pinterest, image, movie, wallpaper, searchgc, happymod, wikimedia, ringtone, anime, animestory, manga, ringtone   
 
- *━━━━━━〈  🔰 Convert 🔰  〉━━━━━━*
+
+ ⧼ 🔰 ~ 𝐂𝐎𝐍𝐕𝐄𝐑𝐓 ~ 🔰  ⧽
 
 sticker, toimg, tovideo, togif , steal, stickermeme, emojimix, tourl, tomp3, toaudio
 
- *━━━━━━〈  🔉 Audio 🔉  〉━━━━━━*
+
+ ⧼ 🔉 ~ 𝐀𝐔𝐃𝐈𝐎 ~ 🔉 ⧽
 
 bass, tempo, blown, deep, earrape, fast, fat, nightcore, reverse, robot, slow, squirrel
 
- *━━━━━━〈  📍 Reactions 📍  〉━━━━━━*
+
+ ⧼ 📍 ~ 𝐑𝐄𝐀𝐂𝐓𝐈𝐎𝐍𝐒 ~ 📍 ⧽
 
 bonk, cry, bully, cuddle, hug, kiss, lick, pat, smug, yeet, blush, smile, wave, highfive, handhold, nom, glomp, bite, slap, kill, happy, wink, poke, dance, cringe
 
- *━━━━━━〈  🌌 Downloader 🌌  〉━━━━━━*
+
+ ⧼ 🌌  ~ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐑 ~  🌌  ⧽
 
 play, ytmp3, ytmp4, ytvideo, mediafire, instagram, igtv, facebook, fbmp3, twitter, twittermp3, tiktok, tiktokaudio, tiktoknowm, mediafire  
 
- *━━━━━━〈  🈴 Weeb 🈴  〉━━━━━━*
+
+ ⧼ 🈴 ~ 𝐖𝐄𝐄𝐁 𝐙𝐎𝐍𝐄 ~ 🈴 ⧽
 
 waifu, loli, neko, ppcouple, feed, foxgirl, feed, meow, tickle, wallpaper, coffee, animenom, waifu3, neko2, feed, meow, tickle, migumin, awoo, animewallpaper2, anime, manga
 
- *━━━━━━〈  ♨️ Informative ♨️  〉━━━━━━*
+
+ ⧼ ♨️ ~ 𝐈𝐍𝐅𝐎𝐌𝐀𝐑𝐓𝐈𝐕𝐄 ~ ♨️ ⧽
 
 animequote, quote, covid, earthquake, wiki
 
- *━━━━━━〈  🎗 Others 🎗  〉━━━━━━*
+
+ ⧼ 🎗 ~ 𝐎𝐓𝐇𝐄𝐑 ~ 🎗  ⧽
 
 stickermeme, quotes, darkjoke 
 
- *━━━━━━〈  🎐 Fun 🎐  〉━━━━━━*
+
+ ⧼ 🎐 ~ 𝐅𝐔𝐍 ~ 🎐 ⧽
 
 reaction, truth, dare, couple, soulmate, handsomecheck, beautifulcheck, awesomecheck, greatcheck, gaycheck, cutecheck, lesbiancheck, hornycheck, prettycheck, lovelycheck, uglycheck, charactercheck
 
- *━━━━━━〈  🪁 Essentials 🪁  〉━━━━━━*
+
+ ⧼ 🪁 ~ 𝐄𝐒𝐒𝐄𝐍𝐓𝐈𝐀𝐋𝐒 ~ 🪁  ⧽
 
 translate, fliptext, toletter
 
- *━━━━━━〈  💥 NSFW 💥  〉━━━━━━*
+
+ ⧼ 💥 ~ 𝐍𝐒𝐅𝐖 ~ 💥  ⧽
 
 🍁 Type " *${prefix}nsfw* " then enable NSFW (Admin only!) 
 
 🍁 Then type " *${prefix}nsfwmenu* " to get full list of NSFW commands.
 
 
-
-
-
- 『  *${global.BotName}*  』
- Powered by: *Fantox*
+ ⧼  *${global.BotName}*  ⧽
+ Powered by: *Zukato*
 
  🔰 To use any of these commands type 
  " *${prefix}<Command name>* ".

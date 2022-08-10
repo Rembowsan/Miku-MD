@@ -26,8 +26,8 @@ console.log(color(figlet.textSync('Miku Bot MD', {
 		whitespaceBreak: true
         }), 'yellow'))
 
-console.log(color('\nHello, I am Fantox, the main developer of this bot.\n\nThanks for using: Miku Bot','aqua'))
-console.log(color('\nYou can follow me on GitHub: FantoX001','aqua'))
+console.log(color('\nHello, I am Zukato, the main developer of this bot.\n\nThanks for using: Tekun Bot','aqua'))
+console.log(color('\nYou can follow me on Instagram: Tekun Bot','aqua'))
 
     let { version, isLatest } = await fetchLatestBaileysVersion()
     const Miku = MikuConnect({
@@ -116,15 +116,15 @@ Miku.ev.on('group-participants.update', async (anu) => {
                 Mikutext = `
 Hello @${WAuserName.split("@")[0]},
 
-I am *Miku Nakano*, Welcome to ${metadata.subject}.
+Tekun Bot Welcomes you ${metadata.subject}.
 
 *Group Description:*
 ${metadata.desc}
 
-Press the button below to start using *MIKU*...`
+Press the button below to start using *Tekun Bot*...`
 
 let Mikubuttons = [
-    {buttonId: `-menu`, buttonText: {displayText: 'Use Miku'}, type: 1}
+    {buttonId: `-menu`, buttonText: {displayText: 'Use Tekun'}, type: 1}
     ]
     let buttonMessage = {
     jpegThumbnail:buffer,
@@ -139,15 +139,13 @@ Miku.sendMessage(anu.id, buttonMessage)
                 	const buffer = await getBuffer(ppuser)
                 	let WAuserName = num
                     Mikutext = `
-Sayonara 👋, @${WAuserName.split("@")[0]},
+Bye 👋, @${WAuserName.split("@")[0]},
 
-I hope you will come back soon, but we are not going to miss you though!
-
-Just let him go and start using MIKU by pressing the button below...
+See you in the next life 
 `
 
 let Mikubuttons = [
-    {buttonId: `-menu`, buttonText: {displayText: 'Use Miku'}, type: 1}
+    {buttonId: `-menu`, buttonText: {displayText: 'Use Tekun'}, type: 1}
     ]
     let buttonMessage = {
     jpegThumbnail:buffer,
