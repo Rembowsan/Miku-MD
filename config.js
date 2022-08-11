@@ -12,15 +12,15 @@ global.OwnerNumber = ['447935699967']
 global.ownertag = ['447935699967']
 global.BotName = "𝐓𝐄𝐊𝐔𝐍 • 𝐁𝐎𝐓"
 global.packname = "Tekun Bot"
-global.author = "by Zukato"
-global.OwnerName = "Zukato"
+global.author = "by Umrbella"
+global.OwnerName = "Umrbella"
 global.BotSourceCode = "https://instagram.com/dolbaejob"
 global.SupportGroupLink = "https://chat.whatsapp.com/KmnhSLOfX2HDqXcElzUAsA"
 global.sessionName = "session"
 
 // Prefix //
 // If you want to change the prefix, change it and also change all switch's button id from Core.js  otherwise buttons will not work //
-global.prefa = ['/'] 
+global.prefa = ['-'] 
 
 
 global.location = "Berlin, Germany"
